@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 100px 150px 200px;
+}
+.item{
+    border-radius: 5px;
+    margin: 0;
+}
+.item1 { background-color: lightcoral; }
+.item2 { background-color: lightblue; }
+.item3 { background-color: lightgreen; }
+.item4 { background-color: lightpink; }
+.item5 { background-color: lightseagreen; }
+.item6 { background-color: lightgoldenrodyellow; }
+.item7 { background-color: lightgray; }
+.item8 { background-color: lightsalmon; }
+.item9 { background-color: lightcyan; }
